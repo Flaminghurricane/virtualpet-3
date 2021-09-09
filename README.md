@@ -1,1 +1,2 @@
-# virtualpet-3
+# Virtual-Pet-1
+c34 project
